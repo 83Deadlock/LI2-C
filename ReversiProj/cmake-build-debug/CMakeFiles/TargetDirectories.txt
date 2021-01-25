@@ -1,0 +1,3 @@
+/home/joao/LI2/ReversiProj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/joao/LI2/ReversiProj/cmake-build-debug/CMakeFiles/ReversiProj.dir
+/home/joao/LI2/ReversiProj/cmake-build-debug/CMakeFiles/edit_cache.dir

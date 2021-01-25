@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ReversiProj.dir/main.c.o CMakeFiles/ReversiProj.dir/estado.c.o CMakeFiles/ReversiProj.dir/botfunction.c.o  -o ReversiProj 
